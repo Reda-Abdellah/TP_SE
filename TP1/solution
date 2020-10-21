@@ -1,0 +1,9 @@
+Q2:
+man hostname
+hostname - show or set the system's host name
+who - show who is logged on
+users  -  print the user names of users currently logged in to the cur‐
+       rent host
+
+https://linuxhint.com/30_bash_script_examples/#t8
+
